@@ -12,6 +12,10 @@ It started as a playground for macros, having only Singleton implemented, hopefu
 
 Check below for some examples on how to use it. 
 
+<p align="center">
+    <img src="https://github.com/catalinpatrascu/CPDesignPatterns/blob/main/Resources/Main-screenshot.jpg" style="display: block; margin: auto;"/>
+</p>
+
 ## Prerequisites
 
 ### Swift
